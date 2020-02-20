@@ -1,0 +1,14 @@
+{
+  "name": "ltc-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Learn to Code",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

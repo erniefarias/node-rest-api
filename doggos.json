@@ -1,0 +1,18 @@
+[
+  { "name": "Benji", "breed": "American Staffordshire", "color": "Brindle" },
+  { "name": "Barkfield", "breed": "English Mastiff", "color": "Fawn" },
+  { "name": "Tim", "breed": "Dog", "color": "Brown" },
+  { "name": "Ruffsworth", "breed": "Beagle", "color": "Chocolate" },
+  { "name": "Sir Snout", "breed": "Doberman", "color": "Black" },
+  { "name": "Prof Paws", "breed": "St. Bernard", "color": "Red" },
+  { "name": "Noodles", "breed": "Bulldog", "color": "White" },
+  { "name": "Pop Tart", "breed": "Pug", "color": "Fawn" },
+  { "name": "Olaf", "breed": "Boxer", "color": "Brindle" },
+  { "name": "Norman", "breed": "Beagle", "color": "Red" },
+  { "name": "Gustav", "breed": "Doberman", "color": "Black" },
+  { "name": "Rupert", "breed": "Pug", "color": "Fawn" },
+  { "name": "Eugene", "breed": "Bulldog", "color": "Red" },
+  { "name": "Sherman", "breed": "Boxer", "color": "Fawn" },
+  { "name": "Buster", "breed": "American Staffordshire", "color": "White" },
+  { "name": "Oswaldo", "breed": "Boxer", "color": "White" }
+]
